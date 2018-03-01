@@ -19,6 +19,7 @@
         <module>toeic-service</module>
         <module>toeic-core-service-impl</module>
         <module>toeic-core-untils</module>
+        <module>toeic-core-peristence-data</module>
     </modules>
 
     <properties></properties>
